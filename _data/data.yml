@@ -46,11 +46,7 @@ education:
       university: University of Buenos Aires
       time: 2013 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        sem.
 
           - Bullet point
           - Bullet point
@@ -59,11 +55,7 @@ education:
       university: University of Buenos Aires
       time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        .
 
           - Bullet point
           - Bullet point
@@ -72,29 +64,15 @@ education:
       university: University of Buenos Aires
       time: 2007 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Thesis:
 
 experiences:
     - role: postdoc position
       time: 2019 - Present
-      company: Startup Hubs, San Francisco
+      company: National Institute 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        
 
           - Bullet point
           - Bullet point
@@ -134,25 +112,18 @@ projects:
 
     assignments:
       - title: R-Ladies Buenos Aires
-      #  link: "#hook"
-        tagline: "."
+        link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
+        tagline: "Co-organizer"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: R en Buenos Aires
+        link: "https://renbaires.github.io/"
+        tagline: "Co-organizer"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: The Carpentries
+        link: "https://carpentries.org"
+        tagline: "Instructor"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      
 publications:
     title: Publications
     intro: |
