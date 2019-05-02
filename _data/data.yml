@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Florencia D'Andrea
     tagline: PhD in Biological Sciences
-    avatar: https://res.cloudinary.com/flor/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:00b0ff,c_fill,g_auto,r_max,w_1000/v1556820798/53470204_10161578291805584_3847140376125112320_n_avjqly.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: template_primary.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: florencia.dandrea@gmail.com
