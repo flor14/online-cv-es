@@ -46,22 +46,21 @@ education:
       university: University of Buenos Aires
       time: 2013 - 2019
       details: |
-        sem.
-          - Bullet point
-          - Bullet point
-          
-    - degree: Professor
+       Thesis Ecotoxicological Risk Assessment of pesticides use in extensive crops on the biota of water bodies in the Pampa region, Argentina          
+              
+   - degree: Professor of Secondary and Higher Education in Biological Sciences
       university: University of Buenos Aires
       time: 2013 - 2015
       details: |
-        .
-          - Bullet point
-          - Bullet point
+        Degree equivalent to a Msc in Education of Sciences, with focus in didactics of biology 
+          
     - degree: Licenciate in Biological Sciences
       university: University of Buenos Aires
       time: 2007 - 2012
       details: |
-        Thesis:
+        Thesis Alterations of heme synthesis by xenobiotics: liver damage and metabolic implications
+        Department of Biological Chemistry - University of Buenos Aires
+        
 experiences:
     - role: postdoc position
       time: 2019 - Present
