@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Florencia D'Andrea
     tagline: PhD in Biological Sciences
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+   # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: florencia.dandrea@gmail.com
@@ -127,9 +127,8 @@ projects:
       
 publications:
     title: Publications
-    intro: |
-      
-
+    intro: ResearchGate 
+    link: https://www.researchgate.net/profile/Maria_Dandrea2      
     papers:
       - title: The Art of Computer Programming
         authors: Donald E. Knuth
