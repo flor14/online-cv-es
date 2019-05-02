@@ -62,19 +62,19 @@ education:
         Department of Biological Chemistry - University of Buenos Aires
 
 experiences:
-    - role: postdoc position
+    - role: Postdoc position
       time: 2019 - Present
       company: National Institute 
       details: |
         Theme Development of computer tools to assess the risk of pesticide applications for aquatic ecosystems 
          
-    - role: PhD scholarship
+    - role: PhD scholar
       time: 2013 - 2019
       company: Conicet
       details: |
         Place
         
-    - role: University of Buenos Aires Undergraduate Scholarship
+    - role: Undergraduate Scholar
       time: 2012 - 2014
       company: University of Buenos Aires
       details: |
@@ -83,7 +83,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: Some projects I am involved 
+    intro: >
+    Some projects I am involved 
 
     assignments:
       - title: R-Ladies Buenos Aires
