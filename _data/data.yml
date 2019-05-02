@@ -7,15 +7,15 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Maria Florencia D'Andrea
-    tagline: PhD in Biological Sciencies
+    name: Florencia D'Andrea
+    tagline: PhD in Biological Sciences
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: florencia.dandrea@gmail.com
   #  phone: 012 345 6789
     website: florencia.netlify.com #do not add http://
-    linkedin: maría-florencia-d-andrea-a512a81b
+    linkedin: florenciadandrea
     github: flor14
     researchgate: Maria_Dandrea2
   #  bitbucket:
@@ -41,21 +41,23 @@ sidebar:
       - item: Travelling
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Biological Sciencies
+      university: University of Buenos Aires
+      time: 2013 - 2019
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
+      - degree: Professor
+      university: University of Buenos Aires
+      time: 2013 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -110,7 +112,7 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: PhD scholarship
+    - role: 
       time: 2012 - 2014
       company: Amazon, London
       details: |
@@ -131,9 +133,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: R-Ladies Buenos Aires
+      #  link: "#hook"
+        tagline: "."
 
       - title: DevStudio
         link: "#"
