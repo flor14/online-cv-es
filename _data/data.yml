@@ -46,45 +46,56 @@ education:
       university: University of Buenos Aires
       time: 2013 - 2019
       details: |
-       Thesis Ecotoxicological Risk Assessment of pesticides use in extensive crops on the biota of water bodies in the Pampa region, Argentina          
-              
-   - degree: Professor of Secondary and Higher Education in Biological Sciences
+        sem.
+          - Bullet point
+          - Bullet point
+          
+    - degree: Professor
       university: University of Buenos Aires
       time: 2013 - 2015
       details: |
-        Degree equivalent to a Msc in Education of Sciences, with focus in didactics of biology 
-          
+        .
+          - Bullet point
+          - Bullet point
     - degree: Licenciate in Biological Sciences
       university: University of Buenos Aires
       time: 2007 - 2012
       details: |
-        Thesis Alterations of heme synthesis by xenobiotics. liver damage and metabolic implications
-        Department of Biological Chemistry. University of Buenos Aires
-
+        Thesis:
 experiences:
-    - role: Postdoc position
+    - role: postdoc position
       time: 2019 - Present
       company: National Institute 
       details: |
-        Theme Development of computer tools to assess the risk of pesticide applications for aquatic ecosystems 
-         
-    - role: PhD scholar
-      time: 2013 - 2019
-      company: Conicet
-      details: |
-        Place
-        
-    - role: Undergraduate Scholar
-      time: 2012 - 2014
-      company: University of Buenos Aires
-      details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         
-
+          - Bullet point
+          - Bullet point
+    - role: PhD scholarship
+      time: 2013 - 2019
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: 
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
-    intro: >
-    Some projects I am involved 
+    intro: Some projects I am involved 
 
     assignments:
       - title: R-Ladies Buenos Aires
@@ -97,7 +108,7 @@ projects:
 
       - title: The Carpentries
         link: "https://carpentries.org"
-        tagline: "Certified Instructor - Participant in translations of the lessons to Spanish"
+        tagline: "Instructor"
         
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
