@@ -43,19 +43,19 @@ sidebar:
 
 education:
     - degree: PhD in Biological Sciences
-      university: University of Buenos Aires
+      university: University of Buenos Aires, Argentina
       time: 2013 - 2019
       details: |
         Ecotoxicological Risk Assessment of pesticides use in extensive crops on the biota of water bodies in the Pampa region, Argentina
           
     - degree: Professor of Secondary and Higher Education in Biological Sciences
-      university: University of Buenos Aires
+      university: University of Buenos Aires, Argentina
       time: 2013 - 2015
       details: |
         Degree equivalent to a Msc in Education of Sciences, with focus in didactics of biology 
         
     - degree: Licenciate in Biological Sciences
-      university: University of Buenos Aires
+      university: University of Buenos Aires, Argentina
       time: 2007 - 2012
       details: |
         Alterations of heme synthesis by xenobiotics: liver damage and metabolic implications
@@ -63,19 +63,25 @@ education:
 experiences:
     - role: postdoc position
       time: 2019 - Present
-      company: National Institute of Agricultural Technology (INTA) 
+      company: National Institute of Agricultural Technology (INTA), Argentina
       details: |
         Development of computer tools to assess the risk of pesticide applications for aquatic ecosystems 
         
+    - role: Emerging Leaders in the Americas Program Fellow
+      time: 2016
+      company: Institut national de la recherche scientifique (INRS), University of Québec, Canada
+      details: |
+        Hydrological modelling and risk assessment  
+        
     - role: PhD scholar
       time: 2013 - 2019
-      company: National Scientific and Technical Research Council (CONICET)
+      company: National Scientific and Technical Research Council (CONICET), Argentina
       details: |
         Place of work: National Institute of Agricultural Technology (INTA) 
           
     - role: Undergraduate Scholar
       time: 2012 - 2013
-      company: University of Buenos Aires
+      company: University of Buenos Aires, Argentina
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
