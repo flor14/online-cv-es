@@ -65,6 +65,8 @@ education:
         Departmento de Química Biologica. Universidad de Buenos Aires.
         
 experiences:
+    title: Experiencias
+    
     - role: PostDoc 
       time: 2019 - Actual
       company: Instituto Nacional de Tecnología Agropecuaria (INTA), Argentina
@@ -91,7 +93,7 @@ experiences:
         
 projects:
     title: Proyectos
-    intro: Some projects I am involved 
+    intro: Algunos proyectos en los que estoy involucrada 
 
     assignments:
       - title: R-Ladies Buenos Aires
@@ -112,8 +114,8 @@ projects:
 
       
 publications:
-    title: Publications
-    intro: ResearchGate https://www.researchgate.net/profile/Maria_Dandrea2      
+    title: Publicaciones
+    intro: Link a researchgate en barra lateral     
     
 
 footer: >
