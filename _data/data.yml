@@ -45,12 +45,12 @@ sidebar:
       - item: Viajes
         link:
 
-education:
+educacion:
     - degree: Doctora en Ciencias Biológicas
       university: Universidad de Buenos Aires, Argentina
       time: 2013 - 2019
       details: |
-        Evaluación de riesgo por uso de plaguicidas empleados en cultivos extensivos en cuerpos de agua de la región pampeana
+        Tesis: Evaluación de riesgo por uso de plaguicidas empleados en cultivos extensivos en cuerpos de agua de la región pampeana
           
     - degree: Profesora de educación media y superior en Ciencias Biológicas
       university: Universidad de Buenos Aires, Argentina
@@ -61,7 +61,7 @@ education:
       university: Universidad de Buenos Aires, Argentina
       time: 2007 - 2012
       details: |
-        Alteraciones de la síntesis del hemo por xenobióticos: daño hepático e implicancias metabólicas
+        Tesis: Alteraciones de la síntesis del hemo por xenobióticos: daño hepático e implicancias metabólicas
         Departmento de Química Biologica. Universidad de Buenos Aires.
         
 experiences:
@@ -81,13 +81,13 @@ experiences:
       time: 2013 - 2019
       company: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
       details: |
-        Instituto Nacional de Tecnología Agropecuaria (INTA) 
+        Lugar de trabajo: Instituto de Recursos Biológicos (IRB). Instituto Nacional de Tecnología Agropecuaria (INTA) 
           
     - role: Beca Estímulo (pregrado)
       time: 2011 - 2013
       company: Universidad de Buenos Aires, Argentina
       details: |
-        Departmento de Química Biologica. Universidad de Buenos Aires.
+        Laboratorio de Disturbios Metabólicos por Xenobióticos, Salud Humana y Medio Ambiente (DIMXSA). Departamento de Química Biologica. Universidad de Buenos Aires.
         
 projects:
     title: Proyectos
@@ -108,7 +108,7 @@ projects:
         
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
-        tagline: "Participacion en la traducción de dos capítulos del libro R4DS al español"
+        tagline: "Participación en la traducción de dos capítulos del libro R4DS al español"
 
       
 publications:
