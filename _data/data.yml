@@ -25,14 +25,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     researchgate: Maria_Dandrea2
 
-    idiomas:
+    languages:
       - idiom: Español
         level: Nativa
 
       - idiom: Inglés
         level: Profesional
 
-    intereses:
+    interests:
       - item: Naturaleza
         link:
         
@@ -45,7 +45,7 @@ sidebar:
       - item: Viajes
         link:
 
-educacion:
+education:
     - degree: Doctora en Ciencias Biológicas
       university: Universidad de Buenos Aires, Argentina
       time: 2013 - 2019
@@ -64,7 +64,7 @@ educacion:
         Alteraciones de la síntesis del hemo por xenobióticos: daño hepático e implicancias metabólicas
         Departmento de Química Biologica. Universidad de Buenos Aires.
         
-experiencia:
+experiences:
     - role: PostDoc 
       time: 2019 - Actual
       company: Instituto Nacional de Tecnología Agropecuaria (INTA), Argentina
