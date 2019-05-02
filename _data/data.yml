@@ -34,6 +34,9 @@ sidebar:
     interests:
       - item: Nature
         link:
+        
+      - item: Communities
+        link:
 
       - item: Acting classes
         link:
@@ -80,16 +83,11 @@ experiences:
         Place of work: National Institute of Agricultural Technology (INTA) 
           
     - role: Undergraduate Scholar
-      time: 2012 - 2013
+      time: 2011 - 2013
       company: University of Buenos Aires, Argentina
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Department of Biological Chemistry. University of Buenos Aires.
+        
 projects:
     title: Projects
     intro: Some projects I am involved 
@@ -101,7 +99,7 @@ projects:
         
       - title: R en Buenos Aires
         link: "https://renbaires.github.io/"
-        tagline: "Co-organizer"
+        tagline: "R user group in Buenos Aires. Co-organizer"
 
       - title: The Carpentries
         link: "https://carpentries.org"
@@ -121,13 +119,6 @@ publications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
