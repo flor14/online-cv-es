@@ -105,16 +105,13 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: Some projects I am involved 
 
     assignments:
       - title: R-Ladies Buenos Aires
         link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
         tagline: "Co-organizer"
-
+        
       - title: R en Buenos Aires
         link: "https://renbaires.github.io/"
         tagline: "Co-organizer"
@@ -122,6 +119,10 @@ projects:
       - title: The Carpentries
         link: "https://carpentries.org"
         tagline: "Instructor"
+        
+      - title: R para Ciencia de Datos
+        link: "https://twitter.com/R4DS_es"
+        tagline: "Participant in the translation of R4DS book to Spanish"
 
       
 publications:
