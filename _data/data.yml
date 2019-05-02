@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Florencia D'Andrea
     tagline: PhD in Biological Sciences
-   # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: florencia.dandrea@gmail.com
@@ -46,62 +46,40 @@ education:
       university: University of Buenos Aires
       time: 2013 - 2019
       details: |
-        sem.
-
-          - Bullet point
-          - Bullet point
-          
-    - degree: Professor
+       Thesis "Ecotoxicological Risk Assessment of pesticides use in extensive crops on the biota of water bodies in the Pampa region, Argentina"          
+   
+   - degree: Professor of Secondary and Higher Education in Biological Sciences
       university: University of Buenos Aires
       time: 2013 - 2015
       details: |
-        .
-
-          - Bullet point
-          - Bullet point
-
+        Degree equivalent to a Msc in Education of Sciences, with focus in didactics of biology 
+          
     - degree: Licenciate in Biological Sciences
       university: University of Buenos Aires
       time: 2007 - 2012
       details: |
-        Thesis:
+        Thesis: "Alterations of heme synthesis by xenobiotics: liver damage and metabolic implications"
+        Department of Biological Chemistry - University of Buenos Aires
 
 experiences:
     - role: postdoc position
       time: 2019 - Present
       company: National Institute 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        
-
-          - Bullet point
-          - Bullet point
-
+        Theme: "Development of computer tools to assess the risk of pesticide applications for aquatic ecosystems" 
+         
     - role: PhD scholarship
       time: 2013 - 2019
-      company: Google, London
+      company: Conicet
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: 
+        Place:
+        
+    - role: University of Buenos Aires Undergraduate Scholarship
       time: 2012 - 2014
-      company: Amazon, London
+      company: University of Buenos Aires
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        
 
 projects:
     title: Projects
@@ -118,7 +96,7 @@ projects:
 
       - title: The Carpentries
         link: "https://carpentries.org"
-        tagline: "Instructor"
+        tagline: "Certified Instructor - Participant in translations of the lessons to Spanish"
         
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
