@@ -25,90 +25,90 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     researchgate: Maria_Dandrea2
 
-    languages:
-      - idiom: Spanish
-        level: Native
+    idiomas:
+      - idiom: Español
+        level: Nativa
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglés
+        level: Profesional
 
-    interests:
-      - item: Nature
+    intereses:
+      - item: Naturaleza
         link:
         
-      - item: Communities
+      - item: Comunidades
         link:
 
-      - item: Acting classes
+      - item: Teatro
         link:
 
-      - item: Travelling
+      - item: Viajes
         link:
 
-education:
-    - degree: PhD in Biological Sciences
-      university: University of Buenos Aires, Argentina
+educacion:
+    - degree: Doctora en Ciencias Biológicas
+      university: Universidad de Buenos Aires, Argentina
       time: 2013 - 2019
       details: |
-        Ecotoxicological Risk Assessment of pesticides use in extensive crops on the biota of water bodies in the Pampa region, Argentina
+        Evaluación de riesgo por uso de plaguicidas empleados en cultivos extensivos en cuerpos de agua de la región pampeana
           
-    - degree: Professor of Secondary and Higher Education in Biological Sciences
-      university: University of Buenos Aires, Argentina
+    - degree: Profesora de educación media y superior en Ciencias Biológicas
+      university: Universidad de Buenos Aires, Argentina
       time: 2013 - 2015
       details: |
-        Degree equivalent to a Msc in Education of Sciences, with focus in didactics of biology 
         
-    - degree: Licenciate in Biological Sciences
-      university: University of Buenos Aires, Argentina
+    - degree: Licenciada en Ciencias Biologicas
+      university: Universidad de Buenos Aires, Argentina
       time: 2007 - 2012
       details: |
-        Alterations of heme synthesis by xenobiotics: liver damage and metabolic implications
-        Department of Biological Chemistry. University of Buenos Aires.
-experiences:
-    - role: PostDoc position
-      time: 2019 - Present
-      company: National Institute of Agricultural Technology (INTA), Argentina
+        Alteraciones de la síntesis del hemo por xenobióticos: daño hepático e implicancias metabólicas
+        Departmento de Química Biologica. Universidad de Buenos Aires.
+        
+experiencia:
+    - role: PostDoc 
+      time: 2019 - Actual
+      company: Instituto Nacional de Tecnología Agropecuaria (INTA), Argentina
       details: |
-        Development of computer tools to assess the risk of pesticide applications for aquatic ecosystems 
+        Desarrollo de herramientas informáticas para evaluar el riesgo de las aplicaciones de plaguicidas para los ecosistemas acuáticos 
         
     - role: Emerging Leaders in the Americas Program Fellow
       time: 2016
-      company: Institut national de la recherche scientifique (INRS), University of Québec, Canada
+      company: Institut national de la recherche scientifique (INRS), Universidad de Québec, Canadá
       details: |
-        Hydrological modelling and risk assessment  
+        Modelado hidrológico y evaluación de riesgo  
         
-    - role: PhD Scholarship
+    - role: Beca doctoral
       time: 2013 - 2019
-      company: National Scientific and Technical Research Council (CONICET), Argentina
+      company: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
       details: |
-        Place of work: National Institute of Agricultural Technology (INTA) 
+        Instituto Nacional de Tecnología Agropecuaria (INTA) 
           
-    - role: Undergraduate Scholarship
+    - role: Beca Estímulo (pregrado)
       time: 2011 - 2013
-      company: University of Buenos Aires, Argentina
+      company: Universidad de Buenos Aires, Argentina
       details: |
-        Department of Biological Chemistry. University of Buenos Aires.
+        Departmento de Química Biologica. Universidad de Buenos Aires.
         
 projects:
-    title: Projects
+    title: Proyectos
     intro: Some projects I am involved 
 
     assignments:
       - title: R-Ladies Buenos Aires
         link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
-        tagline: "Co-organizer"
+        tagline: "Co-organizadora"
         
       - title: R en Buenos Aires
         link: "https://renbaires.github.io/"
-        tagline: "R user group in Buenos Aires. Co-organizer"
+        tagline: "Grupo de usuries de R en Buenos Aires. Co-organizadora"
 
       - title: The Carpentries
         link: "https://carpentries.org"
-        tagline: "Certified Instructor - Participant in translations of the lessons to Spanish"
+        tagline: "Instructora Certificada - Participación en la traducción de lecciones al español"
         
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
-        tagline: "Participant in the translation of R4DS book to Spanish"
+        tagline: "Participacion en la traducción de dos capítulos del libro R4DS al español"
 
       
 publications:
