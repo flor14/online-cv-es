@@ -63,26 +63,19 @@ education:
 experiences:
     - role: postdoc position
       time: 2019 - Present
-      company: National Institute 
+      company: National Institute of Agricultural Technology (INTA) 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        Development of computer tools to assess the risk of pesticide applications for aquatic ecosystems 
         
-          - Bullet point
-          - Bullet point
-    - role: PhD scholarship
+    - role: PhD scholar
       time: 2013 - 2019
-      company: Google, London
+      company: National Scientific and Technical Research Council (CONICET)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: 
-      time: 2012 - 2014
-      company: Amazon, London
+        Place of work: National Institute of Agricultural Technology (INTA) 
+          
+    - role: Undergraduate Scholar
+      time: 2012 - 2013
+      company: University of Buenos Aires
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -106,7 +99,7 @@ projects:
 
       - title: The Carpentries
         link: "https://carpentries.org"
-        tagline: "Instructor"
+        tagline: "Certified Instructor - Participant in translations of the lessons to Spanish"
         
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
