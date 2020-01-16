@@ -39,10 +39,7 @@ sidebar:
       - item: Comunidades
         link:
 
-      - item: Teatro
-        link:
-
-      - item: Viajes
+      - item: Clases de teatro
         link:
 
 education:
@@ -110,13 +107,13 @@ projects:
         link: "https://twitter.com/R4DS_es"
         tagline: "Participación en la traducción de dos capítulos del libro R4DS al español"
 
-      - title: Reproducibility Hackatons (ReproHack)
+      - title: Hackatones de reproducibilidad científica (ReproHack)
         link: "https://twitter.com/ReproHack"
-        tagline: "Team member"
+        tagline: "Parte de equipo fundador"
 
-      - title: LatinR Conference
+      - title: Congreso LatinR 
         link: "www.latin-r.com"
-        tagline: "Chair 2020 / Organizing Committe 2019 - 2018"   
+        tagline: "Chair 2020 / Comite organizador 2019 - 2018"   
     
 
 footer: >
