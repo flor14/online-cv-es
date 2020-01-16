@@ -110,10 +110,13 @@ projects:
         link: "https://twitter.com/R4DS_es"
         tagline: "Participación en la traducción de dos capítulos del libro R4DS al español"
 
-      
-publications:
-    title: Publicaciones
-    intro: Link a researchgate en barra lateral     
+      - title: Reproducibility Hackatons (ReproHack)
+        link: "https://twitter.com/ReproHack"
+        tagline: "Team member"
+
+      - title: LatinR Conference
+        link: "www.latin-r.com"
+        tagline: "Chair 2020 / Organizing Committe 2019 - 2018"   
     
 
 footer: >
