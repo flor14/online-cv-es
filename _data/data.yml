@@ -91,30 +91,37 @@ projects:
     intro: Algunos proyectos en los que estoy involucrada 
 
     assignments:
+    
+      - title: Chair del Congreso LatinR 
+        link: "https://latin-r.com"
+        tagline: "Chair 2020 / Comite organizador 2019 - 2018"   
+        
+        
       - title: R-Ladies Buenos Aires + Parte del equipo global
-        link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
+        link: "https://rladies.org/about-us/team/"
         tagline: "Co-organizadora"
+        
+        
+      - title: Hackatones de reproducibilidad científica (ReproHack)
+        link: "https://twitter.com/ReproHack"
+        tagline: "Parte de equipo fundador"
+        
+        
+      - title: The Carpentries
+        link: "https://carpentries.org"
+        tagline: "Instructora Certificada - Participación en la traducción de lecciones al español"
+        
         
       - title: R en Buenos Aires
         link: "https://renbaires.github.io/"
         tagline: "Grupo de usuries de R en Buenos Aires. Co-organizadora"
 
-      - title: The Carpentries
-        link: "https://carpentries.org"
-        tagline: "Instructora Certificada - Participación en la traducción de lecciones al español"
-        
+
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
         tagline: "Participación en la traducción de dos capítulos del libro R4DS al español"
 
-      - title: Hackatones de reproducibilidad científica (ReproHack)
-        link: "https://twitter.com/ReproHack"
-        tagline: "Parte de equipo fundador"
-
-      - title: Congreso LatinR 
-        link: "https://latin-r.com"
-        tagline: "Chair 2020 / Comite organizador 2019 - 2018"   
-    
+   
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
